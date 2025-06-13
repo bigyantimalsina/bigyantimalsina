@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Student | AI & Machine Learning Enthusiast | Passionate About Tech Innovation & Problem Solving</h3>
 
 - 📚 Currently learning **Python**, **C++**, and **JavaScript** to build impactful solutions.
-- 📧 Reach me at: [bigyantimalsina@gmail.com](mailto:bigyantimalsina@gmail.com)
+- 📧 Reach me at: [bigyantimalsina987@gmail.com](mailto:bigyantimalsina987@gmail.com)
 
 ---
 
